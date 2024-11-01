@@ -1,0 +1,23 @@
+.bem-vindo {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    background-color: black;
+    padding: 2%;
+    color:azure;
+    margin: auto;
+    
+}
+
+@media (max-width: 600px) {
+    .bem-vindo {
+        padding: 1%;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+
+  }
