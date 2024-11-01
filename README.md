@@ -26,7 +26,7 @@ Siga os passos abaixo para configurar e iniciar o projeto em sua máquina local.
 
 1. Abra o terminal e clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Nubiarodrigues/Catalogo_de_filmes.git
    
 2. Navegue até a pasta do projeto:
    ```bash
